@@ -1,6 +1,6 @@
 # Pirate-Intelligent-Agent
 
-## Scenerio
+## Scenario
 For this project, we created a treasure hunt game. The player needs to find the treasure before the pirates. I was tasked with designing an intelligent agent as a pirate non-player character. I was given some starter code and a sample environment. I created a deep Q-learning algorithm to train the pirate. The pirate begins with no knowledge of the game. They will need to navigate the game world that contains different pathways and obstacles.
 
 ## Reinforcement Learning
